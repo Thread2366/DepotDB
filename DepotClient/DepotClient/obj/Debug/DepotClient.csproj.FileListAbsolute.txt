@@ -1,0 +1,55 @@
+C:\Users\admin\Desktop\c# apps\DepotClient\DepotClient\bin\Debug\DepotClient.exe.config
+C:\Users\admin\Desktop\c# apps\DepotClient\DepotClient\bin\Debug\DepotClient.exe
+C:\Users\admin\Desktop\c# apps\DepotClient\DepotClient\bin\Debug\DepotClient.pdb
+C:\Users\admin\Desktop\c# apps\DepotClient\DepotClient\bin\Debug\MySql.Data.dll
+C:\Users\admin\Desktop\c# apps\DepotClient\DepotClient\bin\Debug\MySql.Data.xml
+C:\Users\admin\Desktop\c# apps\DepotClient\DepotClient\obj\Debug\DepotClient.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\c# apps\DepotClient\DepotClient\obj\Debug\DepotClient.Form1.resources
+C:\Users\admin\Desktop\c# apps\DepotClient\DepotClient\obj\Debug\DepotClient.Properties.Resources.resources
+C:\Users\admin\Desktop\c# apps\DepotClient\DepotClient\obj\Debug\DepotClient.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\c# apps\DepotClient\DepotClient\obj\Debug\DepotClient.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\c# apps\DepotClient\DepotClient\obj\Debug\DepotClient.exe
+C:\Users\admin\Desktop\c# apps\DepotClient\DepotClient\obj\Debug\DepotClient.pdb
+C:\Users\admin\Desktop\DepotClient\DepotClient\bin\Debug\DepotClient.exe.config
+C:\Users\admin\Desktop\DepotClient\DepotClient\bin\Debug\DepotClient.exe
+C:\Users\admin\Desktop\DepotClient\DepotClient\bin\Debug\DepotClient.pdb
+C:\Users\admin\Desktop\DepotClient\DepotClient\bin\Debug\MySql.Data.dll
+C:\Users\admin\Desktop\DepotClient\DepotClient\bin\Debug\MySql.Data.xml
+C:\Users\admin\Desktop\DepotClient\DepotClient\obj\Debug\DepotClient.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\DepotClient\DepotClient\obj\Debug\DepotClient.Form1.resources
+C:\Users\admin\Desktop\DepotClient\DepotClient\obj\Debug\DepotClient.Form2.resources
+C:\Users\admin\Desktop\DepotClient\DepotClient\obj\Debug\DepotClient.Properties.Resources.resources
+C:\Users\admin\Desktop\DepotClient\DepotClient\obj\Debug\DepotClient.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\DepotClient\DepotClient\obj\Debug\DepotClient.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\DepotClient\DepotClient\obj\Debug\DepotClient.exe
+C:\Users\admin\Desktop\DepotClient\DepotClient\obj\Debug\DepotClient.pdb
+C:\Users\admin\Desktop\Проектный практикум\DepotClient\DepotClient\bin\Debug\DepotClient.exe.config
+C:\Users\admin\Desktop\Проектный практикум\DepotClient\DepotClient\bin\Debug\DepotClient.exe
+C:\Users\admin\Desktop\Проектный практикум\DepotClient\DepotClient\bin\Debug\DepotClient.pdb
+C:\Users\admin\Desktop\Проектный практикум\DepotClient\DepotClient\bin\Debug\MySql.Data.dll
+C:\Users\admin\Desktop\Проектный практикум\DepotClient\DepotClient\bin\Debug\MySql.Data.xml
+C:\Users\admin\Desktop\Проектный практикум\DepotClient\DepotClient\obj\Debug\DepotClient.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Проектный практикум\DepotClient\DepotClient\obj\Debug\DepotClient.Form1.resources
+C:\Users\admin\Desktop\Проектный практикум\DepotClient\DepotClient\obj\Debug\DepotClient.Form2.resources
+C:\Users\admin\Desktop\Проектный практикум\DepotClient\DepotClient\obj\Debug\DepotClient.Properties.Resources.resources
+C:\Users\admin\Desktop\Проектный практикум\DepotClient\DepotClient\obj\Debug\DepotClient.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\Проектный практикум\DepotClient\DepotClient\obj\Debug\DepotClient.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Проектный практикум\DepotClient\DepotClient\obj\Debug\DepotClient.exe
+C:\Users\admin\Desktop\Проектный практикум\DepotClient\DepotClient\obj\Debug\DepotClient.pdb
+C:\Users\admin\Desktop\Проектный практикум\DepotClient\DepotClient\obj\Debug\DepotClient.Form3.resources
+C:\Users\Thread\Desktop\очень сложно\Проектный практикум\DepotClient\DepotClient\bin\Debug\DepotClient.exe.config
+C:\Users\Thread\Desktop\очень сложно\Проектный практикум\DepotClient\DepotClient\bin\Debug\DepotClient.exe
+C:\Users\Thread\Desktop\очень сложно\Проектный практикум\DepotClient\DepotClient\bin\Debug\DepotClient.pdb
+C:\Users\Thread\Desktop\очень сложно\Проектный практикум\DepotClient\DepotClient\bin\Debug\MySql.Data.xml
+C:\Users\Thread\Desktop\очень сложно\Проектный практикум\DepotClient\DepotClient\obj\Debug\DepotClient.csprojAssemblyReference.cache
+C:\Users\Thread\Desktop\очень сложно\Проектный практикум\DepotClient\DepotClient\obj\Debug\DepotClient.Form1.resources
+C:\Users\Thread\Desktop\очень сложно\Проектный практикум\DepotClient\DepotClient\obj\Debug\DepotClient.Form2.resources
+C:\Users\Thread\Desktop\очень сложно\Проектный практикум\DepotClient\DepotClient\obj\Debug\DepotClient.Form3.resources
+C:\Users\Thread\Desktop\очень сложно\Проектный практикум\DepotClient\DepotClient\obj\Debug\DepotClient.Properties.Resources.resources
+C:\Users\Thread\Desktop\очень сложно\Проектный практикум\DepotClient\DepotClient\obj\Debug\DepotClient.csproj.GenerateResource.cache
+C:\Users\Thread\Desktop\очень сложно\Проектный практикум\DepotClient\DepotClient\obj\Debug\DepotClient.csproj.CoreCompileInputs.cache
+C:\Users\Thread\Desktop\очень сложно\Проектный практикум\DepotClient\DepotClient\obj\Debug\DepotClient.csproj.CopyComplete
+C:\Users\Thread\Desktop\очень сложно\Проектный практикум\DepotClient\DepotClient\obj\Debug\DepotClient.exe
+C:\Users\Thread\Desktop\очень сложно\Проектный практикум\DepotClient\DepotClient\obj\Debug\DepotClient.pdb
+C:\Users\Thread\Desktop\очень сложно\Проектный практикум\DepotClient\DepotClient\bin\Debug\MySql.Data.dll
+C:\Users\Thread\Desktop\очень сложно\Проектный практикум\DepotClient\DepotClient\bin\Debug\Google.Protobuf.dll
